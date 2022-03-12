@@ -2,7 +2,7 @@
 
 -💵 Trabalho atualmente como assistente de gerencia e controler.
 
-#📚 Estudando programação web e futuramente programação mobile.
+#📚 Estudando programação web e futuramente analise e desenvolvimento de sistemas.
 
 <div> 
     <a href="https://github.com/cesarpss">
