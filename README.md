@@ -1,6 +1,6 @@
 ###🎃 Olá, eu sou o Cesarpss!!
 
--💵 Trabalho atualmente como assistente de gerencia e controler.
+-💵 Trabalho atualmente como gerente administrativo financeiro.
 
 #📚 Estudando programação web e futuramente analise e desenvolvimento de sistemas.
 
